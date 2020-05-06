@@ -1,0 +1,15 @@
+1.3.1. There is no strong difference (0.01 sec or less) what to use: iteration or recursion because execution time is equal for both methods
+But in me honest opinion, recursion method is better choice in case of its compactness.
+
+1.3.2. There is no strong difference (0.01 sec or less) what to use: iteration or recursion because execution time is equal for both methods
+But in me honest opinion, recursion method is better choice in case of its compactness.
+
+1.3.3. Iteration method is much better because recursion has a recursion deepth limit and user can't use this ahgorithm 
+with 1000 elements or more; iteration method can. On the small numbers it works equal.
+
+1.4.1. Recursion method is better because it executes an average of 0.05 seconds faster than iteration method.
+
+1.4.2 Iteration method is much better because recursion has a recursion deepth limit and user can't use this ahgorithm 
+with large numbers; iteration method can. On the small numbers it works equal.
+
+1.4.3. Recursion method is much better because it executes an average of 0.1-0.2 seconds faster than iteration method with large numbers.
